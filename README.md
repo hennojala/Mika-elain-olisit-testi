@@ -8,7 +8,7 @@ Tein testin, jossa testataan mikä eläin olisit.
 Käyttäjä vastaa kysymyksiin, joiden vastausten perusteella testi etenee ja antaa käyttäjälle vastauksen.
 Testin kesto ja kysymysten määrä riippuu käyttäjän vastauksista.
 
-# *********************************
+#
 Pohdintoja harjoitustyöstä:
 
 Syy työni aiheelle on, että ihmiset tykkäävät suorittaa erilaisia "leikkimielisiä" testejä ja niitä tuleekin jatkuvasti medioissa vastaan.
