@@ -2,9 +2,9 @@
 Ohjelmoinnin perusteet harjoitustyö, Python 2022
 Tekniikat: Visual Studio Code, konsolisovellus
 
- ### Harjoitustyöni idea:
+ ### Harjoitustyön idea:
 
-Tein testin, jossa testataan mikä eläin olisit.
+Testi, jossa testataan mikä eläin olisit.
 Käyttäjä vastaa kysymyksiin, joiden vastausten perusteella testi etenee ja antaa käyttäjälle vastauksen.
 Testin kesto ja kysymysten määrä riippuu käyttäjän vastauksista.
 
